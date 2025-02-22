@@ -1,0 +1,11 @@
+{
+    "nama": "Jane Smith",
+    "status": "Aktif",
+    "keahlian": ["Pemrograman", "Desain Web", "Analisis Data"],
+    "kontak": {
+    "email": "jane.smith@example.com",
+    "telepon": "081234567890"
+    },
+    "rate_card": 50000 ,
+    "url_foto": "https://example.com/foto/jane_smith.jpg"
+}
